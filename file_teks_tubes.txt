@@ -1,0 +1,4 @@
+13 27
+2 rumah seberang kiri rumah anda dihuni oleh keluarga Joni
+1 rumah seberang kiri rumah Joni dihuni oleh keluarga Kylie
+3 rumah sebelah kanan rumah Kylie dihuni oleh keluarga Herry
